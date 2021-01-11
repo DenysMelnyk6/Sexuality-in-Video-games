@@ -14,3 +14,6 @@ different groups surveyed. The groups were split by: Gender, Age Groups, Country
 
 Certain statistical data from the survey is increadibly abstract, hardly reflecting any meaningful data, yet it was still used for
 the essay.
+
+Sorting of the data could use a lot of improvement - method used was sub-optimal, did not get rid of incorrect answers or blank values,
+and was mostly done by hand.
